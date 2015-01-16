@@ -1,0 +1,1 @@
+../../../dist/nano-class.js

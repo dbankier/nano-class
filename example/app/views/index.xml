@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+    <View top="100">
+      <TextField value="{{nclass}}"></TextField>
+      <Label nclass="{{nclass}}">Hello World</Label>
+      <TextField value="{{bclass}}"></TextField>
+      <Label nclass="b{{bclass}}">Hello World</Label>
+    </View>
+	</Window>
+</Alloy>
