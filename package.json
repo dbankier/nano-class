@@ -1,7 +1,7 @@
 {
   "name": "ti-nano-class",
   "version": "0.1.0",
-  "description": "A two-way databinding library for Appcelerator's Titanium Alloy framework",
+  "description": "A bound class plugin for nano",
   "directories": {
     "example": "example"
   },
